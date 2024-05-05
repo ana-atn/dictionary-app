@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <header>
-        <img src={book} width="40px" alt="Dictionary Image" />
+        <img src={book} width="40px" alt="Dictionary" />
       </header>
       <h1>{""} Dictionary</h1>
 
@@ -13,7 +13,7 @@ export default function App() {
         <a
           href="https://github.com/ana-atn/dictionary-app"
           target="_blank"
-          rel="no-referrer"
+          rel="noreferrer"
         >
           open-source code
         </a>{" "}
