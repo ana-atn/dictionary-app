@@ -12,7 +12,7 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        
+
         <footer>
           <a
             href="https://github.com/ana-atn/dictionary-app"
@@ -21,7 +21,14 @@ export default function App() {
           >
             open-source code
           </a>{" "}
-          by ana atanackovic
+          by{" "}
+          <a
+            href="https://ana-atanackovic.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            ana atanackovic
+          </a>
         </footer>
       </div>
     </div>
