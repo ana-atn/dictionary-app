@@ -1,9 +1,22 @@
-.App header {
-  margin-top: 20px;
-  text-align: center;
+.App {
+  background-color: #f4f1e8;
+  color: #1c6f57;
+  font-family: "Onest", sans-serif;
+  padding-bottom: 80px;
 }
 
 .App footer {
   text-align: center;
   margin-top: 50px;
+  color: #1c6f57;
+}
+
+.App a {
+  color: #1c6f57;
+  opacity: 0.6;
+}
+
+.App a:hover {
+  background-color: #d08d40;
+  opacity: 1;
 }
